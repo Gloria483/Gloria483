@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Gloria
 [instagram]: https://www.instagram.com/Gloria
-[linkedin]: https://linkedin.com/in/Gloria
+[linkedin]: https://linkedin.com/in/berimana-gloria-082035160
