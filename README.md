@@ -7,7 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Gloria485/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Gloria485/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Buiding DNS intuition](https://github.com/Gloria485/azure-network-DNS)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Gloria485/configure-ad)
+  - [Network and File sharing](https://github.com/Gloria485/azure-network-file-sharing)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Gloria485/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
