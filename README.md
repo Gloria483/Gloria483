@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Gloria483/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Gloria485/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/Gloria483/osticket-prereqs)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Gloria485/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Buiding DNS intuition](https://github.com/Gloria485/azure-network-DNS)
