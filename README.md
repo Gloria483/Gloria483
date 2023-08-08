@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gloria, an <a href="https://www.linkedin.com/in/berimana-gloria-082035160/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Gloria, an <a href="https://www.linkedin.com/in/berimana-gloria-082035160/">IT Professional and Cybersecurity enthusiast</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
