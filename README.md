@@ -6,11 +6,6 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Gloria483/osticket-prereqs)
   - [osTicket: Post-Installation configuration](https://github.com/Gloria483/post-install-config)
   - [osTicket: Ticket lifecycle Examples](https://github.com/Gloria483/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Buiding DNS intuition](https://github.com/Gloria483/building-dns-intuition)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Gloria483/configure-active-director)
-  - [Network and File sharing](https://github.com/Gloria483/file-sharing)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Gloria483/Network-security-group)
 
 <h2>🤳Connect with me:</h2>
 
